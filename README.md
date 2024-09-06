@@ -1,6 +1,13 @@
-## Hi there 👋
+![header_vid](https://github.com/user-attachments/assets/cf1ae58a-5d65-4ce9-80a4-c54352fc0ed5)
+
+
+
 
 <!--
+
+Uploading video (2) (1) (online-video-cutter.com).mp4…
+
+
 **guti10x/guti10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
