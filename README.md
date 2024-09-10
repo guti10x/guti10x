@@ -16,36 +16,67 @@
 
                                     
 <table>
+<tr>
+  <td width="50%">
+    <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
+      Fridgedeck
+    </h2>
+    <div align="center">
+      <a href="https://github.com/guti10x/Fridgedeck.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/825ce320-87f7-4f0e-9851-8ce5f8e724d5" width="400" alt="Fridgedeck">
+      </a>
+      <br>
+      <br>
+      <p>Multiuser desktop app for managing your refrigerator with real-time stock tracking, customizable lists, delivery options, technical support, and monitoring of temperature, humidity, and door status.</p>
+    </div>
+  </td>
+
+  <td width="50%">
+    <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
+      Data Acquisition Dashware FUEM
+    </h2>
+    <div align="center">
+      <a href="https://github.com/guti10x/Data-Acquisition-Dashware-FUEM.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/78760daf-9bcc-47db-bc43-92a07d054d73" width="400" alt="Data Acquisition Dashware FUEM">
+      </a>
+      <br>
+      <br>
+      <p>Interface and data acquisition system for the dashboard display of the Formula Student Car FUEM XVI, providing real-time metrics and alerts for enhanced driver performance and safety.</p>
+    </div>
+  </td>
+</tr>
 
 <tr>
+  <td width="50%">
+    <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
+      DraftGenious
+    </h2>
+    <div align="center">
+      <a href="https://github.com/guti10x/DraftGeniousIQ2_APP.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/b83462db-7ce8-4037-8d19-09c4b5f346b1" width="400" alt="DraftGenious">
+      </a>
+      <br>
+      <br>
+      <p>Personal assistant for generating strategies and recommendations on player transfers and lineups to obtain the best team in the context of a fantasy league, using AI models and algorithms.</p>
+    </div>
+  </td>
 
-<td width="50%">
-<h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
-Fridgedeck
-</h2>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://github.com/user-attachments/assets/825ce320-87f7-4f0e-9851-8ce5f8e724d5" width="400" alt="Fridgedeck">
-</a>
-<br>
-<p>Multiuser home automation application for refrigerator management.</p>
-</div>                                                                               
-</td>
-  
-<td width="50%">
-<h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
-Data Acquisition Dashware FUEM
-</h2>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://github.com/user-attachments/assets/78760daf-9bcc-47db-bc43-92a07d054d73" width="400" alt="Data Acquisition Dashware FUEM">
-</a>
-<br>
-<p>Interface for the Dashboard Screen of the Formula Student Car FUEM XVI</p>
-</div>                                                             
-</td>
+  <td width="50%">
+    <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
+      MDEntertainment
+    </h2>
+    <div align="center">
+      <a href="https://github.com/guti10x/Mdentertainment.git" target="_blank">
+        <img src="https://github.com/user-attachments/assets/3635bf71-b7cb-4158-8254-107d9865f5d0" width="400" alt="MD Entertainment">
+      </a>
+      <br>
+      <br>
+      <p>Multiplatform application for event management and promotion, allowing users to organize, schedule, and promote events efficiently.</p>
+    </div>
+  </td>
+</tr>
 
-</tr>  
+
 
 </table>                                                                                 
 <br>
