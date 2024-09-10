@@ -9,12 +9,36 @@
 <p align="center">I really enjoy turning complex problems into simple, beautiful, and intuitive designs. 🌱</p>
 <p align="center">I love learning about new technologies that allow me to develop apps and programs to help other people around the world. 👩‍💻</p>
 
+<h2 align="center" style="color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold;">
+    Contact or Find Me On:
+</h2>
+
+<p align="center">
+    <a href="mailto:gt104515@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="50">
+    </a>
+    <a href="[https://www.linkedin.com/in/daniel-guti%C3%A9rrez-torres-5a5185221/](https://www.linkedin.com/in/daniel-guti%C3%A9rrez-torres-5a5185221/)" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50">
+    </a>
+    <a href="http://www.danielgutierreztorres.com" target="_blank">
+        <img src="https://img.shields.io/badge/Personal_Website-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" height="50">
+    </a>
+    <a href="[https://www.youtube.com/channel/UCFUjW-Xi2x5hL-11wDMLcNQ](https://www.youtube.com/channel/UCFUjW-Xi2x5hL-11wDMLcNQ)" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="50">
+    </a>
+</p>
+
+
+
+<!-- Include Ionicons CDN -->
+<link rel="stylesheet" href="https://unpkg.com/ionicons@5.5.3/dist/ionicons.css">
+
+
 
 <h2 align="center" style="color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold;">
     My Projects
 </h2>
-
-                                    
+                              
 <table>
 <tr>
   <td width="50%">
@@ -75,9 +99,5 @@
     </div>
   </td>
 </tr>
-
-
-
 </table>                                                                                 
 <br>
-
