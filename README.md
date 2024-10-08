@@ -65,19 +65,21 @@
 </tr>
 
 <tr>
-  <td width="50%">
+
+<td width="50%">
     <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
       DraftGenious
     </h2>
     <div align="center">
       <a href="https://github.com/guti10x/DraftGeniousIQ2_APP.git" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b83462db-7ce8-4037-8d19-09c4b5f346b1" width="400" alt="DraftGenious">
+        <img src="https://github.com/user-attachments/assets/870ad8f8-1228-4c0e-a980-c4744d987baa" width="400" alt="DraftGenious">
       </a>
       <br>
       <br>
       <p>Personal assistant for generating strategies and recommendations on player transfers and lineups to obtain the best team in the context of a fantasy league, using AI models and algorithms.</p>
     </div>
-  </td>
+</td>
+
 
   <td width="50%">
     <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
