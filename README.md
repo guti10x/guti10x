@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Gutiérrez Torres</h1>
 
-<p align="center">I'm 22 years old. 🕥</p>
+<p align="center">I'm 23 years old. 🕥</p>
 <p align="center">I'm from Madrid, Spain. 📌</p>
 <p align="center">I’m currently studying computer science engineering at Universidad Europea in Madrid. 🔭</p>
 <p align="center">Ever since I can recall, I have consistently carried a computer with me, fueling my passion for technology. 🧑‍🚀</p>
