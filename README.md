@@ -92,5 +92,34 @@
     </div>
   </td>
 </tr>
+
+<tr>
+  <td width="50%">
+    <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
+      OneHealth Ecosystem
+    </h2>
+    <div align="center">
+      <a href="https://github.com/guti10x/OneHealth-ecosystem.git" target="_blank">
+          <img width="388" height="330" alt="oneHealth_ecosystem" src="https://github.com/user-attachments/assets/d48a0781-5f4e-474f-ad3b-6d9181957fd1" />
+      </a>
+      <br>
+      <br>
+      <p>Ecosystem for early prediction of anxiety crises in young people through real-time data collection from mobile phones and wearable devices.</p>
+    </div>
+  </td>
+  <td width="50%">
+    <h2 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; font-weight: bold; font-size: 36px; text-shadow: 2px 2px 4px #000000;">
+      MergeForce
+    </h2>
+    <div align="center">
+      <a href="https://github.com/guti10x/Mergeforce_ASTI.git" target="_blank">
+       <img width="388" height="354" alt="astiChallegeV6" src="https://github.com/user-attachments/assets/758e367f-2b7c-4c4e-82c9-da4c1f7e2b8f" />
+      </a>
+      <br>
+      <br>
+      <p>Autonomous robot, developed for the semifinals of the Asti Robotic Challenge 25.</p>
+    </div>
+  </td>
+</tr>
 </table>                                                                                 
 <br>
