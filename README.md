@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in/daniel-guti%C3%A9rrez-torres-5a5185221/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
     </a>
-    <a href="http://www.danielgutierreztorres.com" target="_blank">
+    <a href="https://danielgutierreztorres.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Personal_Website-%2300C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" height="40">
     </a>
     <a href="https://www.youtube.com/channel/UCFUjW-Xi2x5hL-11wDMLcNQ" target="_blank">
