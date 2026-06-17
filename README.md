@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Daniel Gutiérrez Torres</h1>
 
-<p align="center">I'm 23 years old. 🕥</p>
+<p align="center">I'm 24 years old. 🕥</p>
 <p align="center">I'm from Madrid, Spain. 📌</p>
-<p align="center">I’m currently studying computer science engineering at Universidad Europea in Madrid. 🔭</p>
-<p align="center">Ever since I can recall, I have consistently carried a computer with me, fueling my passion for technology. 🧑‍🚀</p>
-<p align="center">I really enjoy turning complex problems into simple, beautiful, and intuitive designs. 🌱</p>
-<p align="center">I love learning about new technologies that allow me to develop apps and programs to help other people around the world. 👩‍💻</p>
-
+<p align="center">I'm a Computer Science Engineering graduate from Universidad Europea in Madrid. 🎓</p>
+<p align="center">I specialize in solving complex problems through scalable software solutions and process optimization. ⚙️</p>
+<p align="center">I'm particularly interested in improving operational efficiency, automating workflows, and bridging the gap between technology and business needs. 📈</p>
+<p align="center">I enjoy exploring emerging technologies and building products that create real impact for users and organizations worldwide. 👩‍💻</p>
 <h2 align="center" style="color: #4CAF50; font-family: Arial, sans-serif; font-weight: bold;">
     Contact or Find Me On:
 </h2>
